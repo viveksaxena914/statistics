@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.codechallenge.service.StatisticService;
-import com.codechallenge.transaction.dto.Statistic;
+import com.codechallenge.dto.Statistic;
 
 /*
  * Controller for StatisticService.

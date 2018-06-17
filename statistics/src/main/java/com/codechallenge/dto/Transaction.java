@@ -1,4 +1,4 @@
-package com.codechallenge.transaction.dto;
+package com.codechallenge.dto;
 
 import java.io.Serializable;
 

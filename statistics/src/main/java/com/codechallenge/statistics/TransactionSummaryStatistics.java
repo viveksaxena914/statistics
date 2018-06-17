@@ -10,8 +10,8 @@ import java.util.concurrent.ConcurrentHashMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.codechallenge.transaction.dto.Statistic;
-import com.codechallenge.transaction.dto.Transaction;
+import com.codechallenge.dto.Statistic;
+import com.codechallenge.dto.Transaction;
 
 /**
  * Calculates statistics for last 60 seconds based on timestamp included in the transaction.

@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.codechallenge.transaction.dto.Transaction;
+import com.codechallenge.dto.Transaction;
 import com.codechallenge.util.DataUtil;
 
 @RunWith(SpringJUnit4ClassRunner.class)

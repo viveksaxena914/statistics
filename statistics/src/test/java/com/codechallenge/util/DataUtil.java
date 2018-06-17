@@ -3,7 +3,7 @@ package com.codechallenge.util;
 import java.util.Arrays;
 import java.util.List;
 
-import com.codechallenge.transaction.dto.Transaction;
+import com.codechallenge.dto.Transaction;
 
 public class DataUtil {
 

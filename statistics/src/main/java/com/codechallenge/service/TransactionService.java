@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import com.codechallenge.exception.OutOfTimeRange;
 import com.codechallenge.repository.TransactionRepository;
 import com.codechallenge.statistics.TransactionSummaryStatistics;
-import com.codechallenge.transaction.dto.Transaction;
+import com.codechallenge.dto.Transaction;
 import static com.codechallenge.util.DateTimeUtil.isOutOfTimeRange;
 
 /*

@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.codechallenge.statistics.TransactionSummaryStatistics;
-import com.codechallenge.transaction.dto.Statistic;
+import com.codechallenge.dto.Statistic;
 
 /*
  * Service responsible for handling Statistics related requests.

@@ -9,8 +9,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.codechallenge.transaction.dto.Statistic;
-import com.codechallenge.transaction.dto.Transaction;
+import com.codechallenge.dto.Statistic;
+import com.codechallenge.dto.Transaction;
 import com.codechallenge.util.DataUtil;
 
 public class TransactionSummaryStatisticsTest {
