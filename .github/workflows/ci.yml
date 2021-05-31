@@ -31,7 +31,7 @@ jobs:
       run: mvn -B package --file pom.xml
 
     - name: Build and Push Docker Image
-      uses: viveksaxena914/statistics@v2
+      uses: viveksaxena914/statistics@main
       with:
         image: viveksaxena914/statistics-app
         registry: docker.io
